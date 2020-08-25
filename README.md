@@ -26,7 +26,7 @@
   <li><b>1º</b>: Tenha o node instalado na sua máquina;</li>
   <li><b>2º</b>: Abra a pasta raiz no terminal e instale as dependências com: <b>npm install</b>;</li>
   <li><b>3º</b>: Inicie o servidor com: <b>npm run dev</b></li>
-  <li><b>4º</b>Utilize algum simulador de cliente (insomnia, postman etc) e crie as requições lá para testar o CRUD.</li>
+  <li><b>4º</b>Utilize algum simulador de cliente (insomnia, postman etc) e crie as requisições lá para testar o CRUD.</li>
 
 </ul>
 
